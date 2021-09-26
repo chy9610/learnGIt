@@ -35,7 +35,7 @@
 //    git cherry-pick <commitHash>
 
 // 13、删除分支
-//    git branch -d <branchName>
+//    git branch -D <branchName>
 
 // 14、删除远程分支
 //    git push origin --delete  <branchName>
