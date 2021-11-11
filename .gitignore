@@ -1,3 +1,4 @@
-node_modules/   过滤 node_modules 文件夹
-*.zip           过滤 zip 后缀文件
-dist/           过滤 dist 文件夹
+node_modules   
+*.zip           
+dist         
+.history  
